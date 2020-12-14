@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "AndrewGable",
+      "id": 2838819,
+      "comment_id": 744713098,
+      "created_at": "2020-12-14T21:11:41Z",
+      "repoId": 309835796,
+      "pullRequestNo": 26
+    }
+  ]
 }
