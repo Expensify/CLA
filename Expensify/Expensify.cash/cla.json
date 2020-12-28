@@ -223,6 +223,14 @@
       "created_at": "2020-12-25T05:08:42Z",
       "repoId": 285902689,
       "pullRequestNo": 1099
+    },
+    {
+      "name": "oshioked",
+      "id": 47212393,
+      "comment_id": 751595851,
+      "created_at": "2020-12-28T06:25:58Z",
+      "repoId": 285902689,
+      "pullRequestNo": 1105
     }
   ]
 }
