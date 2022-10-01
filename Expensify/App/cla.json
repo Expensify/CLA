@@ -1807,6 +1807,14 @@
       "created_at": "2022-09-30T05:41:09Z",
       "repoId": 285902689,
       "pullRequestNo": 11371
+    },
+    {
+      "name": "vladamx",
+      "id": 11381171,
+      "comment_id": 1264426606,
+      "created_at": "2022-10-01T17:12:22Z",
+      "repoId": 285902689,
+      "pullRequestNo": 11506
     }
   ]
 }
