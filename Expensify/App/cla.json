@@ -1895,6 +1895,14 @@
       "created_at": "2022-10-13T14:12:49Z",
       "repoId": 285902689,
       "pullRequestNo": 11799
+    },
+    {
+      "name": "cristipaval",
+      "id": 18078393,
+      "comment_id": 1284379831,
+      "created_at": "2022-10-19T17:58:00Z",
+      "repoId": 285902689,
+      "pullRequestNo": 11996
     }
   ]
 }
