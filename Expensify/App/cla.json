@@ -1959,6 +1959,14 @@
       "created_at": "2022-11-08T10:10:08Z",
       "repoId": 285902689,
       "pullRequestNo": 12548
+    },
+    {
+      "name": "getusha",
+      "id": 75031127,
+      "comment_id": 1307899213,
+      "created_at": "2022-11-08T22:16:39Z",
+      "repoId": 285902689,
+      "pullRequestNo": 12572
     }
   ]
 }
