@@ -2023,6 +2023,14 @@
       "created_at": "2022-11-17T15:37:25Z",
       "repoId": 285902689,
       "pullRequestNo": 12823
+    },
+    {
+      "name": "Dima-Kevanishvili",
+      "id": 35175081,
+      "comment_id": 1319849691,
+      "created_at": "2022-11-18T11:03:15Z",
+      "repoId": 285902689,
+      "pullRequestNo": 12861
     }
   ]
 }
