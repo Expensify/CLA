@@ -2927,6 +2927,14 @@
       "created_at": "2023-06-07T10:26:17Z",
       "repoId": 285902689,
       "pullRequestNo": 20348
+    },
+    {
+      "name": "stas-kravchuk",
+      "id": 40563919,
+      "comment_id": 1580680887,
+      "created_at": "2023-06-07T12:11:25Z",
+      "repoId": 285902689,
+      "pullRequestNo": 18648
     }
   ]
 }
