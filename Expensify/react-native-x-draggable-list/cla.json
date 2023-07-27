@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "tgolen",
+      "id": 1228807,
+      "comment_id": 1653718674,
+      "created_at": "2023-07-27T14:18:22Z",
+      "repoId": 671513508,
+      "pullRequestNo": 2
+    }
+  ]
 }
