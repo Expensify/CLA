@@ -919,6 +919,14 @@
       "created_at": "2024-01-25T12:16:20Z",
       "repoId": 56797629,
       "pullRequestNo": 641
+    },
+    {
+      "name": "hayata-suenaga",
+      "id": 98560306,
+      "comment_id": 1910667914,
+      "created_at": "2024-01-25T17:26:26Z",
+      "repoId": 56797629,
+      "pullRequestNo": 627
     }
   ]
 }
