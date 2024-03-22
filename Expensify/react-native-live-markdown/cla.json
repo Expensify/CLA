@@ -55,6 +55,14 @@
       "created_at": "2024-03-01T12:14:03Z",
       "repoId": 721036389,
       "pullRequestNo": 209
+    },
+    {
+      "name": "bernhardoj",
+      "id": 50919443,
+      "comment_id": 2014364878,
+      "created_at": "2024-03-22T05:11:21Z",
+      "repoId": 721036389,
+      "pullRequestNo": 242
     }
   ]
 }
