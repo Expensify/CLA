@@ -5535,6 +5535,14 @@
       "created_at": "2024-08-25T13:46:59Z",
       "repoId": 285902689,
       "pullRequestNo": 47978
+    },
+    {
+      "name": "CyberAndrii",
+      "id": 37713088,
+      "comment_id": 2315846618,
+      "created_at": "2024-08-28T16:56:55Z",
+      "repoId": 285902689,
+      "pullRequestNo": 48196
     }
   ]
 }
