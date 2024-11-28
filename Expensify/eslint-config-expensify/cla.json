@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "fabioh8010",
+      "id": 20051562,
+      "comment_id": 2505619816,
+      "created_at": "2024-11-28T09:15:49Z",
+      "repoId": 75239166,
+      "pullRequestNo": 137
+    }
+  ]
 }
