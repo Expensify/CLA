@@ -535,6 +535,14 @@
       "created_at": "2024-11-05T14:41:09Z",
       "repoId": 309835796,
       "pullRequestNo": 594
+    },
+    {
+      "name": "adhorodyski",
+      "id": 42047036,
+      "comment_id": 2528795133,
+      "created_at": "2024-12-09T17:18:08Z",
+      "repoId": 309835796,
+      "pullRequestNo": 607
     }
   ]
 }
